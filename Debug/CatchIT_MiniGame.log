@@ -1,11 +1,1 @@
-﻿  Drop.cpp
-  Game.cpp
-  GameEntity.cpp
-  Main.cpp
-  Player.cpp
-  Sound.cpp
-  Text.cpp
-  TextureManager.cpp
-  Generating Code...
-  LINK : C:\Users\Tahaa\Desktop\ProgrammData\CPlusPlusPortfolio\CatchIT_MiniGame\Debug\CatchIT_MiniGame.exe not found or not built by the last incremental link; performing full link
-LINK : fatal error LNK1104: cannot open file 'SDL2.lib'
+﻿  CatchIT_MiniGame.vcxproj -> C:\Users\Tahaa\Desktop\ProgrammData\CPlusPlusPortfolio\CatchIT_MiniGame\Debug\CatchIT_MiniGame.exe
