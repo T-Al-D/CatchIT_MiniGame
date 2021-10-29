@@ -1,13 +1,14 @@
 
 Hello,
 
-this is my first "Mini Project" with C++ and SDL2 (in Visual Studio 2019). Therefore I kept it simple.
+this is my first 32- Bit "Mini Project" with C++ and SDL2 (in Visual Studio 2019). Therefore I kept it simple.
+There are 5 Level to play, after that the Game will end, but you can restart it if you wish.
 The EXECUTEBLE File for everyone (if you don´t have Visual Studio) can be found in the "Debung" folder.
 Have fun!
 
 BUGS: sometimes the sound doesn't play if you hit a bit late so please don't worry !
 
-This Project is free for everyone, but with liability or guarantee / warranty!
+This Project is free for everyone, but WITHOUT ANY liability or guarantee / warranty!
 
 pronunciation: Catch-it (it means catching the falling objects, has NOTHING to do with the PANDEMIC !!!!)
 
